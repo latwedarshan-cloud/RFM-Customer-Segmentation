@@ -17,3 +17,5 @@ This project analyzes customer behavior using RFM (Recency, Frequency, Monetary)
 ## 📁 Files
 - Power BI Dashboard (.pbix)
 - Project PDF
+
+![Dashboard](rfm.png)
